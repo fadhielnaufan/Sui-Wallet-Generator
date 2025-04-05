@@ -21,7 +21,7 @@ A Node.js script to generate multiple Sui wallets with ease. This tool creates t
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Sui-Wallet-Generator.git
+git clone https://github.com/fadhielnaufan/Sui-Wallet-Generator.git
 ```
 
 2. Navigate to the project directory:
