@@ -94,3 +94,5 @@ Contributions are welcome! Please open an issue or pull request for any improvem
 ---
 
 Happy wallet generating! 🦆 (Quack!)
+
+fadhielnaufan@2025
