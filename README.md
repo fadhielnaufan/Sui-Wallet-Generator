@@ -31,7 +31,7 @@ cd Sui-Wallet-Generator
 
 3. Install dependencies:
 ```bash
-npm install
+npm install @mysten/sui.js bip39 dotenv
 ```
 
 ## Usage
